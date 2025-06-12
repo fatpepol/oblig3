@@ -1,0 +1,16 @@
+/* GLOBAL */
+.planet {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fourtyP {
+  width: 40%;
+}
+
+/* MEDIA */
+@media (max-width: 426px) {
+  /* Empty */
+}
