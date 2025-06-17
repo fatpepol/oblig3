@@ -79,12 +79,28 @@ p {
 /* MEDIA */
 @media (max-width: 426px) {
   .imgPlanet {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
   }
 
   .iconMedium {
     height: 16px;
     width: 16px;
+  }
+
+  .navVertical {
+    padding: 4px 4px;
+  }
+}
+
+@media ((min-width: 427px) and (max-width: 820px)) {
+  .imgPlanet {
+    height: 300px;
+    width: 300px;
+  }
+
+  .iconMedium {
+    height: 32px;
+    width: 32px;
   }
 }
