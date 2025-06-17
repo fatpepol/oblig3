@@ -82,4 +82,9 @@ p {
     height: 300px;
     width: 300px;
   }
+
+  .iconMedium {
+    height: 16px;
+    width: 16px;
+  }
 }
